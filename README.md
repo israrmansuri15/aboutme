@@ -1,4 +1,4 @@
-**🏆 Full-Stack PHP WordPress Developer & Designer | 10+ Years of Professional Experience**
+**🏆 Full-Stack PHP WordPress Developer & Designer | 12+ Years of Professional Experience**
 
 🔹 Proven Track Record on Large-Scale Projects | 🔹 Expert in Modern Web Technologies
 
