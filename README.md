@@ -13,7 +13,7 @@ Webflow, Wix, Squarespace, Drupal (7/8/9)
 
 Shopify, BigCommerce, Magento (customization & integration)
 
-⚙️** Backend Development**:
+⚙️ **Backend Development:**
 
 PHP, Laravel, CodeIgniter
 
@@ -21,7 +21,7 @@ REST API / GraphQL API Development
 
 Database Management (MySQL, MariaDB)
 
-💻** Frontend Development**:
+💻**Frontend Development:**
 
 HTML5, CSS3, JavaScript, Bootstrap 5
 
@@ -31,7 +31,7 @@ Responsive, Mobile-First Design
 
 Figma to HTML / WordPress / React
 
-🚀 **Performance, Security & DevOps**:
+🚀 **Performance, Security & DevOps** :
 
 Website Optimization (LCP, CLS, Core Web Vitals)
 
