@@ -2,14 +2,16 @@
 
 🔹 Proven Track Record on Large-Scale Projects | 🔹 Expert in Modern Web Technologies
 
-I'm a seasoned Full-Stack Developer and UI/UX-focused Designer with over 10 years of hands-on experience building high-performance, scalable websites and applications across multiple platforms and frameworks. My core strength lies in WordPress development (custom themes, plugins, migrations, headless architecture), but my skill set extends across modern front-end frameworks and back-end systems as well.
+I'm a seasoned Full-Stack Developer and UI/UX-focused Designer with over 12 years of hands-on experience building high-performance, scalable websites and applications across multiple platforms and frameworks. My core strength lies in WordPress development (custom themes, plugins, migrations, headless architecture), but my skill set extends across modern front-end frameworks and back-end systems as well.
 
 🔧 **Tech Stack & Expertise**
 🖥️ **CMS & Platform Expertise:**
 
 WordPress (Custom Themes, Plugins, Headless, WooCommerce)
 
-Webflow, Wix, Squarespace, Drupal (7/8/9)
+Elementor, Elementor Pro, Elementor Custom Widget, Breakdance Builder, WP Backery Page Builder, Custom Widget
+
+Webflow, Wix, Squarespace, Drupal (7/8/9,10,11)
 
 Shopify, BigCommerce, Magento (customization & integration)
 
